@@ -1,0 +1,5 @@
+*.pyc
+venv/
+wordcloud.db
+wordcloud.db-journal
+app.yaml
